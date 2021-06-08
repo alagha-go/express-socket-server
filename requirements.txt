@@ -1,0 +1,4 @@
+cors
+express
+nodemon
+socket.io
